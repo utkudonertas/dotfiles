@@ -5,7 +5,7 @@ cask install clipmenu 2> /dev/null
 cask install appcleaner 2> /dev/null
 cask install spotify 2> /dev/null
 # cask install istumbler 2> /dev/null
-cask install aegisub 2> /dev/null
+# cask install aegisub 2> /dev/null
 cask install ccmenu 2> /dev/null
 cask install dash 2> /dev/null
 cask install skype 2> /dev/null
