@@ -1,0 +1,11 @@
+# xquartz yuklu olmali. https://xquartz.macosforge.org/landing/
+cask install basictex 2> /dev/null
+cask install texmaker 2> /dev/null
+
+tap homebrew/science
+
+update
+upgrade
+install gnuplot --with-x
+install gcc
+install octave --without-check
